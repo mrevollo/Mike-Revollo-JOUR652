@@ -4,17 +4,17 @@ body{
   color: #444;
 }
 
-
-h1 {
+div #name {
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
-  text-align: center;
+  text-align: center
+  border: 1px;
+  width: 60%;
 }
 
 h2{
   font-size: 1.5em;
-  color: white;
   background-color: #33485e;
 }
 
