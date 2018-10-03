@@ -1,3 +1,37 @@
+title {
+  color: #33485e;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+container{
+  margin: 0;
+  max-width: 1200px;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+name {
+  font-size: 3em;
+  text-transform: uppercase;
+  text-align: center;
+  border-bottom: 1px #33485e
+  margin: 0;
+  color: #33485e
+  min-width: 300px;
+  width: 60%;
+}
+
+degrees{
+  margin: 5px 0 0 0;
+}
+
+do{
+  margin: 5px 0 0 0;
+}
+
 body{
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 12px;
@@ -5,14 +39,35 @@ body{
 }
 
 
-h1 {
-  font-size: 3em;
-  color: #33485e;
+.sectionheader {
+  font-size: 1.5em;
+  font-weight: 400;
+  color: #fff;
   text-transform: uppercase;
-  text-align: center;
+  background: #33485e;
+  margin: 20px 0 10px 0;
+  width: 70%;
+  min-width: 300px;
+  padding-left: 20px;
 }
 
-h2{
+.jobtitle {
+  font-weight: 600;
   font-size: 1.5em;
-  background-color: #33485e;
+}
+
+.organization{
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+.date{
+  font-size: 1em;
+  font-weight: 400;
+  font-style: italic;
+  margin: 2px 0 0 0;
+}
+
+.description{
+  margin: 10px 0 10px 0;
 }
