@@ -6,7 +6,7 @@ title {
   font-weight: 600;
 }
 
-container{
+container {
   margin: 0;
   max-width: 1200px;
   width: 100%;
@@ -24,15 +24,15 @@ name {
   width: 60%;
 }
 
-degrees{
+degrees {
   margin: 5px 0 0 0;
 }
 
-do{
+do {
   margin: 5px 0 0 0;
 }
 
-body{
+body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 12px;
   color: #444;
