@@ -1,24 +1,33 @@
 body{
   font-family: 'Open Sans', Arial, sans-serif;
-  font-size: 12px;
-  color: #444;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: black;
 }
 
-div #name {
+img{
+  width: 100%;
+}
+
+.name {
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
-  text-align: center
+  text-align: center;
   border: 1px;
 }
 
 h2{
-  font-size: 1.5em;
-  background-color: #33485e;
+  font-size: 3.5em;
+  font-style: oblique;
+  text-align: center;
+  border-style: solid;
+  border-width: 3px;
 }
 
 h3{
-  font-size: 1.5em;
+  font-size: 2em;
+  font-style: italic;
 }
 
 h4{
@@ -27,5 +36,5 @@ h4{
 
 h5{
   font-style: italic;
-  font-size: 1em
+  font-size: 1em;
 }
