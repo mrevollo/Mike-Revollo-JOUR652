@@ -1,23 +1,23 @@
-body{
+body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 18px;
   color: #ffffff;
   background-color: black;
 }
 
-img{
-  width: 100%;
+img {
+  width: 105%;
 }
 
 .name {
   font-size: 3em;
-  color: #33485e;
   text-transform: uppercase;
   text-align: center;
   border: 1px;
 }
 
-h2{
+h2 {
+  color: black;
   font-size: 3.5em;
   font-style: oblique;
   text-align: center;
@@ -25,16 +25,29 @@ h2{
   border-width: 3px;
 }
 
-h3{
+h3 {
   font-size: 2em;
   font-style: italic;
 }
 
 h4{
   font-size: 1.5em;
+  font-style: auto;
 }
 
 h5{
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.organization {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+.date {
+  font-size: 1em;
+  font-weight: 400;
   font-style: italic;
   font-size: 1em;
 }
