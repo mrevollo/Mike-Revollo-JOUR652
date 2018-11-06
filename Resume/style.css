@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #container {
   margin: 0;
   max-width: 1200px;
@@ -6,31 +7,48 @@
 }
 
 #name {
+=======
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: black;
+}
+
+img {
+  width: 105%;
+}
+
+.name {
+>>>>>>> e2cf15c47fdedc2d150df6410dc264238c38b44d
   font-size: 3em;
   text-transform: uppercase;
   text-align: center;
-  border-bottom: 1px #33485e;
-  margin: 0 auto;
-  color: #33485e;
-  min-width: 300px;
-  width: 60%;
+  border: 1px;
 }
 
-.sectionheader {
-  font-size: 1.5em;
-  font-weight: 400;
-  color: #fff;
-  text-transform: uppercase;
-  background: #33485e;
-  margin: 20px 0 10px 0;
-  width: 70%;
-  min-width: 300px;
-  padding-left: 20px;
+h2 {
+  color: black;
+  font-size: 3.5em;
+  font-style: oblique;
+  text-align: center;
+  border-style: solid;
+  border-width: 3px;
 }
 
-.jobtitle {
-  font-weight: 600;
+h3 {
+  font-size: 2em;
+  font-style: italic;
+}
+
+h4{
   font-size: 1.5em;
+  font-style: auto;
+}
+
+h5{
+  font-size: 1.2em;
+  font-style: italic;
 }
 
 .organization {
@@ -42,6 +60,7 @@
   font-size: 1em;
   font-weight: 400;
   font-style: italic;
+<<<<<<< HEAD
   margin: 2px 0 0 0;
 }
 
@@ -67,4 +86,7 @@
 
 #do {
   margin: 5px 0 0 0;
+=======
+  font-size: 1em;
+>>>>>>> e2cf15c47fdedc2d150df6410dc264238c38b44d
 }
