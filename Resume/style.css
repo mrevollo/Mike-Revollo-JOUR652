@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+#container {
+  margin: 0;
+  max-width: 1200px;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+#name {
+=======
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 18px;
@@ -10,6 +20,7 @@ img {
 }
 
 .name {
+>>>>>>> e2cf15c47fdedc2d150df6410dc264238c38b44d
   font-size: 3em;
   text-transform: uppercase;
   text-align: center;
@@ -49,5 +60,33 @@ h5{
   font-size: 1em;
   font-weight: 400;
   font-style: italic;
+<<<<<<< HEAD
+  margin: 2px 0 0 0;
+}
+
+.description{
+  margin: 10 0 10 0;
+}
+
+.menu{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.class{
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+#degrees {
+  margin: 5px 0 0 0;
+}
+
+#do {
+  margin: 5px 0 0 0;
+=======
   font-size: 1em;
+>>>>>>> e2cf15c47fdedc2d150df6410dc264238c38b44d
 }
