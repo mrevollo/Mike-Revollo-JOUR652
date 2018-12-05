@@ -1,0 +1,150 @@
+#container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Montserrat';
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.intro-text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25em;
+  font-weight: bold;
+  max-width: 800px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 80px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  text-weight: bold;
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: 700;
+}
+
+h6 {
+  text-align: center;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+}
+
+.headline {
+  font-family: 'Montserrat';
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.footer {
+  width: auto;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 100px;
+  padding: 25px;
+  font-family: 'Montserrat';
+}
+
+p{
+  text-align: center;
+  line-height: 180%;
+  font-family: 'Montserrat' , sans-serif;
+}
+
+.red {
+  color: #e0162b
+}
+
+.blue {
+  color: #0052a5
+}
+
+.bg-dark {
+  background:#000 !important;
+}
+
+ul.navbar-nav {
+  margin-left: 50%;
+}
+
+.navbar {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hero-image {
+  width: 100%;
+  max-width: 900px;
+}
+
+.stack-image {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.row {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  padding-top: 20px;
+  width: 100%;
+}
+
+.caption {
+width: 100%;
+max-width: 900px;
+margin:0 auto;
+padding-bottom: 30px;
+font-family: 'Montserrat', sans-serif;
+color: #999;
+}
+
+.graphic-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top: 1px solid #cdcdcd;
+  border-bottom: 1px solid #cdcdcd;
+  font-family: 'Montserrat', sans-serif;
+  margin:0 auto;
+  text-align: center;
+}
+
+
+.four-stars {
+  text-align: center;
+}
+
+.stars-navbar {
+  height: 15px;
+  width: 15px;
+  padding-right: 5px;
+  font-size: 1.25em;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
